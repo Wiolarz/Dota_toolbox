@@ -1,0 +1,27 @@
+mystic staff    2800     25  int
+gloves of haste 20  spd
+broadsword  16  dmg
+mithril hammer  24  dmg
+blades of attack    9  dmg
+claymore    21  dmg
+quoter staff 10  dmg  10  spd
+sacred relic    60  dmg
+demon edge  42  dmg
+reaver  25  str
+eagle song  25  zr
+hyper stone  55  spd
+ultimate orb    10  str  10  zr  10  int
+blight stone    2  armour
+ghost scepter   5  str  5  zr  5  int
+iron branch    1  str  1  zr  1  int
+cirlet  2  str  2  zr  2  int
+crown   4  str  4  zr  4  int
+gaountler   3  str
+sliper  3  zr
+mantle  3  int
+belt    6  str
+sliper  6  zr
+robe    6  int
+ogre    10  str
+blade   10  zr
+staff   10  int

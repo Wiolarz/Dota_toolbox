@@ -1,0 +1,18 @@
+dragon lance    12  str  12  zr
+sange   16  str
+yasha   16  zr  12  spd
+kaya    16  int
+mealstorm 24  dmg
+crystalys   34  dmg
+shadowblade 27  dmg  30  spd
+basher  25  dmg  10  str
+forcestaff  10  int
+eul 10  int
+atos    10  str  10  zr  20  int
+orchid  30  dmg  30  spd  25  int
+aganim  10  str  10  zr  20  int
+vladek  5  str  5  zr  5  int
+magic wand  3  str  3  zr  3  int
+urna    2  str  2  zr  2  int
+mekanism    4  str  4  zr  4  int
+drumy   4  str  4  zr  4  int
